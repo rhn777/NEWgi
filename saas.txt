@@ -1,0 +1,47 @@
+CiscoWebEx-It is software-as-a-service(SaaS) type of cloud service. 
+Characteristics of Cisco WebEx
+• High-Quality Video Conferencing 
+• Cross-Platform, Functional and Geographic Versatility 
+• File and Desktop Sharing 
+– Brainstorming via White boarding 
+– AI Powered Functionality 
+ Security
+Advantages Of Webex 
+– Easy Sharing Option 
+– Easy Invitation 
+– Difficult To Share Confidential Data 
+– HD Video And Audio 
+– Minimum Utilization Of Internet Data 
+– Accessible To Various Tools 
+– Sharing Task Is Easy 
+– Best Platform For Education Sector 
+– Stream Live Meetings On Social Media 
+– Reasonable Subscription Plans 
+Google App Engine-It is Platform as a Service(PaaS) type of cloud service. 
+Characteristics of Google App Engine
+• Popular language 
+• Open and flexible 
+• Fully managed 
+• Powerful application diagnostics 
+• Application versioning 
+• Application security 
+Advantages Of Google App Engine
+• Open and familiar languages and tools 
+• Just add code 
+• Pay only for what you use 
+• Easy to build and use the platform: 
+• Scalability 
+• Various API sets 
+Amazon EC2-It belongs to IaaS Cloud Computing Services 
+• Characteristics of Amazon EC2
+• Safe 
+• Dynamic Scalability 
+• Full Control of Instances 
+• Configuration Flexibility 
+• Integration with Other Amazon Web Services 
+• Reliable and Resilient Performance Amazon Elastic Block Store(EBS) 
+• Support for Use in Geographically Disparate Locations 
+• Cost Effective 
+• Credible 
+• Flexibility of Tools 
+• Created for Amazon Web Services
